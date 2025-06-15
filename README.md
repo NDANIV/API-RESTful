@@ -31,12 +31,12 @@ npm start run
 ```
 
 Endpoints disponibles
-  Método	  Ruta	          Descripción
-  POST	    /api/users	    Crear un usuario
-  GET	      /api/users	    Obtener todos los usuarios
-  GET	      /api/users/:id	Obtener usuario por ID
-  PUT	      /api/users/:id	Actualizar usuario por ID
-  DELETE	  /api/users/:id	Eliminar usuario por ID
+ 
+  - (POST)	    /api/users	    (Crear un usuario)
+  - (GET)	      /api/users	    (Obtener todos los usuarios)
+  - (GET)	      /api/users/:id	(Obtener usuario por ID)
+  - (PUT)	      /api/users/:id	(Actualizar usuario por ID)
+  - (DELETE)	  /api/users/:id	(Eliminar usuario por ID)
 
 
 Ejemplo JSON (POST y PUT)
