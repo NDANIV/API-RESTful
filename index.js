@@ -10,8 +10,7 @@ connectDB();
 // Middleware para recibir JSON
 app.use(express.json());
 
-// Rutas
-
+// Rutas del modulo usuario
 app.use('/api', userRoutes)
 
 const PUERTO = 3000;
